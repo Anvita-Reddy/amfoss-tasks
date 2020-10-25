@@ -1,2 +1,2 @@
-My FreeNode IRC Nickname :
+My IRC Freenode Nickname :
 Anvita
