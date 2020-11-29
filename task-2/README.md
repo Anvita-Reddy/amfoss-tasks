@@ -1,1 +1,3 @@
-My IRC Freenode Nickname : Anvita
+### Register nick in IRC Freenode
+
+###### IRC Freenode Nickname : **Anvita**
