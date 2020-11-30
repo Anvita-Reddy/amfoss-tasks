@@ -14,7 +14,7 @@
 | <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-14">Task-14</a> | Bandit |
 | <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-15">Task-15</a> | Project Euler |
 |   |   |
-| <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-3">Task-3</a> | HackerRank Freshers Tasks Contest *(5 pending)* |
+| <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-3">Task-3</a> | HackerRank Freshers Tasks Contest *(few pending)* |
 | <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-5">Task-5</a> | Rustic Scraper *(pending)* |
 | <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-6">Task-6</a> | Geddit *(pending)* |
 | <a href="https://github.com/Anvita-Reddy/amfoss-tasks/tree/main/task-10">Task-10</a> | CS50 *(2 psets pending)* |
