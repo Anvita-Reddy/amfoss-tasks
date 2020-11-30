@@ -1,4 +1,4 @@
-# amFOSS-tasks - Anvita Reddy I
+# amFOSS tasks - Anvita Reddy
 
 ## Table of Contents
 | Task | Description |
