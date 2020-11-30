@@ -1,2 +1,2 @@
 ### Bandit
-
+First few levels were easy. It got incrementally difficult, but after going through the given resources, I figured it out. I am now aware of various commands and the type of arguments passed with them.
