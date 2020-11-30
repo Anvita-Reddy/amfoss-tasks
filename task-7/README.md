@@ -1,2 +1,2 @@
 ### Ubiquitous UI
-![](Login-UI.gif =500x500)
+<img src="Login-UI.gif" width="250" height="250"/>
