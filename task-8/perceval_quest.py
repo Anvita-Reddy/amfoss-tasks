@@ -19,7 +19,7 @@ url = "https://api.github.com/orgs/amfoss/repos"
 
 payload={}
 headers = {
-  'Authorization': 'Bearer bb01ceb41a25135d54dd61c67dc52df2b5afaf66'
+  'Authorization': 'Bearer GitHub token'
 }
 
 response = requests.request("GET", url, headers=headers, data=payload)
